@@ -3,8 +3,6 @@
 A minimal example showing how to call a Python function from LabVIEW using the built-in
 **Python Node** (*Connectivity » Python* palette).
 
-<img width="1576" height="1265" alt="LabVIEW VI using the Python Node" src="https://github-playground.int.automotive-wan.com/user-attachments/assets/59a57dc1-ddc7-4635-bdec-c9c0d2bb0fb3" />
-
 ## Requirements
 
 | Component | Version |
